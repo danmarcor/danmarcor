@@ -1,7 +1,7 @@
-### Hi there 👋 
-🔭 I’m currently studying on Upgrade Hub - Data Analyst 
-
-## :warning: :building_construction: This profile is under construction :construction_worker: :construction:
+| ### Hi there 👋 |
+| --- |
+| 🔭 I’m currently studying on Upgrade Hub - Data Analyst |
+| ## :warning: :building_construction: This profile is under construction :construction_worker: :construction: |
 
 <!--
 **danmarcor/danmarcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
